@@ -1,2 +1,0 @@
-Ticker,Analysis_Period,Analysis_Date,Current_Price,Strategy_Total_Return_Pct,Strategy_Annualized_Return_Pct,BuyHold_Total_Return_Pct,Sharpe_Ratio,Max_Drawdown_Pct,Trade_Days_Turnover_gt0,RSI_Current
-GOOGL,2016-01-25 to 2026-01-23,2026-01-23,328.63,510.8%,19.9%,802.7%,1.10,-18.9%,398,58.6
