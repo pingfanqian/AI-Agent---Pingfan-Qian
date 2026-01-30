@@ -60,14 +60,14 @@ Set an environment variable before running:
 # Windows (PowerShell)
 $env:OPENAI_API_KEY="YOUR_KEY"
 $env:OPENAI_MODEL="gpt-4o-mini"
-python run_demo.py --ticker GOOGL --years 10 --outdir outputs --llm
+python run_demo.py --ticker GOOGL --period 10y --output_dir outputs --trade_note
 ```
 
 ```bash
 # macOS/Linux
 export OPENAI_API_KEY="YOUR_KEY"
 export OPENAI_MODEL="gpt-4o-mini"
-python run_demo.py --ticker GOOGL --years 10 --outdir outputs --llm
+python run_demo.py --ticker GOOGL --period 10y --output_dir outputs --trade_note
 ```
 
 If enabled, the script writes:
