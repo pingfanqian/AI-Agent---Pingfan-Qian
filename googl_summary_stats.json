@@ -1,0 +1,11 @@
+{
+  "total_return": 5.368228291205472,
+  "annualized_return": 0.20382042331119865,
+  "sharpe": 1.1307186101162683,
+  "max_drawdown": -0.1886624908019764,
+  "num_rebalances": 507,
+  "bh_total_return": 7.832532718559108,
+  "start_date": "2016-02-01",
+  "end_date": "2026-01-30",
+  "n_obs": 2515
+}
