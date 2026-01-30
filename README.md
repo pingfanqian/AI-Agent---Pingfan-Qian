@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 3) Run the demo script (recommended for assessors)
 ```bash
-python run_demo.py --ticker GOOGL --years 10 --outdir outputs
+python run_demo.py --ticker GOOGL --period 10y --output_dir outputs --trade_note
 ```
 
 This generates:
